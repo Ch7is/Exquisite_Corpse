@@ -1,0 +1,13 @@
+/home/chris/Projects/Exquisite_Corpse/bin/Debug/netcoreapp3.1/Exquisite_Corpse
+/home/chris/Projects/Exquisite_Corpse/bin/Debug/netcoreapp3.1/Exquisite_Corpse.deps.json
+/home/chris/Projects/Exquisite_Corpse/bin/Debug/netcoreapp3.1/Exquisite_Corpse.runtimeconfig.json
+/home/chris/Projects/Exquisite_Corpse/bin/Debug/netcoreapp3.1/Exquisite_Corpse.runtimeconfig.dev.json
+/home/chris/Projects/Exquisite_Corpse/bin/Debug/netcoreapp3.1/Exquisite_Corpse.dll
+/home/chris/Projects/Exquisite_Corpse/bin/Debug/netcoreapp3.1/Exquisite_Corpse.pdb
+/home/chris/Projects/Exquisite_Corpse/obj/Debug/netcoreapp3.1/Exquisite_Corpse.csprojAssemblyReference.cache
+/home/chris/Projects/Exquisite_Corpse/obj/Debug/netcoreapp3.1/Exquisite_Corpse.csproj.CoreCompileInputs.cache
+/home/chris/Projects/Exquisite_Corpse/obj/Debug/netcoreapp3.1/Exquisite_Corpse.AssemblyInfoInputs.cache
+/home/chris/Projects/Exquisite_Corpse/obj/Debug/netcoreapp3.1/Exquisite_Corpse.AssemblyInfo.cs
+/home/chris/Projects/Exquisite_Corpse/obj/Debug/netcoreapp3.1/Exquisite_Corpse.dll
+/home/chris/Projects/Exquisite_Corpse/obj/Debug/netcoreapp3.1/Exquisite_Corpse.pdb
+/home/chris/Projects/Exquisite_Corpse/obj/Debug/netcoreapp3.1/Exquisite_Corpse.genruntimeconfig.cache
